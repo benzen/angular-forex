@@ -10,6 +10,10 @@ and include it in your html before Angular.
 ```
 <script src="bower_components/angular-forex/forex.min.js"></script>
 ```
+or if you just want to test you just include this link in you file
+```
+<script src="http://rawgithub.com/supercrabtree/angular-forex/master/forex.min.js"></script>
+```
 
 ## Usage
 
